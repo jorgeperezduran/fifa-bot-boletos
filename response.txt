@@ -1,0 +1,1910 @@
+{
+    "data": [
+        {
+            "groupValue": "1216666640816024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "3b0cdad3-7a1c-4411-ab55-bdeb7ebc39eb",
+                    "clientId": "",
+                    "threadIds": [
+                        "20af92d0-4229-4b31-a600-a2d9ea6343b9"
+                    ],
+                    "subject": "",
+                    "preview": "rc#sms#verificationMessage",
+                    "sent": "2022-07-14T05:20:47.59827+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "12166666408",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "3b0cdad3-7a1c-4411-ab55-bdeb7ebc39eb",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1216666640816024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "62cf14449783c17436cd2a10",
+            "messages": [
+                {
+                    "channel": "CHAT",
+                    "messageId": "62cf576424cfabd636b66e50",
+                    "clientId": "",
+                    "threadIds": [],
+                    "subject": "",
+                    "preview": "hello",
+                    "sent": "2022-07-13T23:38:12.80681+0000",
+                    "sender": {
+                        "email": "jorge.perez@nextiva.com",
+                        "phoneNumber": "",
+                        "teamUuid": "",
+                        "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "name": "Jorge Perez",
+                        "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "phoneLocation": "",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "manuel.zapata@nextiva.com",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "0eb0e23f-40ab-11ec-8b6a-005056a3635e",
+                            "name": "Manuel Zapata",
+                            "contactId": "0eb0e23f-40ab-11ec-8b6a-005056a3635e",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "62cf576424cfabd636b66e50",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "OUTBOUND",
+                    "groupId": "62cf14449783c17436cd2a10",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1602491173919492574174",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "9119edf5-ebd1-46b7-8721-228030711b64",
+                    "clientId": "connect-web-54d085a3-9a59-11ec-964e-005056a31519",
+                    "threadIds": [
+                        "990d4be3-2941-4f4a-8043-417779fd29ac"
+                    ],
+                    "subject": "",
+                    "preview": "Test",
+                    "sent": "2022-07-13T20:55:16.83199+0000",
+                    "sender": {
+                        "email": "jorge.perez@nextiva.com",
+                        "phoneNumber": "16024911739",
+                        "teamUuid": "",
+                        "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "name": "Jorge Perez",
+                        "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "phoneLocation": "WORK",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "abelardo.lopez@nextiva.com",
+                            "phoneNumber": "19492574174",
+                            "teamUuid": "",
+                            "userUuid": "21efe4c4-dc3f-11ec-8c37-005056a31519",
+                            "name": "Abelardo Lopez",
+                            "contactId": "21efe4c4-dc3f-11ec-8c37-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "9119edf5-ebd1-46b7-8721-228030711b64",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "OUTBOUND",
+                    "groupId": "1602491173919492574174",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1b93b6e4-e8e5-45fd-ad33-314e7d1a55cd",
+            "messages": [
+                {
+                    "channel": "VOICE",
+                    "messageId": "f1c71e3a-1430-44eb-8cb8-ca0f9fb52d55",
+                    "clientId": "",
+                    "threadIds": [
+                        "055f64fb-d46d-4969-9d6d-3cb848d381ee"
+                    ],
+                    "subject": "",
+                    "preview": "",
+                    "sent": "2022-07-13T15:50:01.93200+0000",
+                    "sender": {
+                        "email": "jorge.perez@nextiva.com",
+                        "phoneNumber": "16024911739",
+                        "teamUuid": "",
+                        "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "name": "Jorge Perez",
+                        "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "phoneLocation": "WORK",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "anuj.kothari@nextiva.com",
+                            "phoneNumber": "14052895998",
+                            "teamUuid": "",
+                            "userUuid": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                            "name": "Anuj Kothari",
+                            "contactId": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "f1c71e3a-1430-44eb-8cb8-ca0f9fb52d55",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "callDetails": {
+                        "date": "2022-07-13",
+                        "call_start_time": "15:49:55",
+                        "call_duration": 4,
+                        "voicemail_id": null,
+                        "voicemail_read": false,
+                        "answered": false,
+                        "voicemail": false,
+                        "voicemail_transcript": null,
+                        "voicemail_transcript_rating": null,
+                        "voicemail_transcript_error": false,
+                        "note": null
+                    },
+                    "direction": "OUTBOUND",
+                    "groupId": "1b93b6e4-e8e5-45fd-ad33-314e7d1a55cd",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "14052895997140528959981405289599916024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "1acaa7a9-0705-495b-952d-cdbf1655ded2",
+                    "clientId": "connect-web-d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                    "threadIds": [
+                        "24825f0d-105b-4b4c-942b-854a83fe8785"
+                    ],
+                    "subject": "",
+                    "preview": "Media Message",
+                    "sent": "2022-07-13T15:10:29.53671+0000",
+                    "sender": {
+                        "email": "anuj.kothari@nextiva.com",
+                        "phoneNumber": "14052895998",
+                        "teamUuid": "",
+                        "userUuid": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                        "name": "Anuj Kothari",
+                        "contactId": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                        "phoneLocation": "WORK",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "vinay.garge@nextiva.com",
+                            "phoneNumber": "14052895997",
+                            "teamUuid": "",
+                            "userUuid": "ad3d896c-0d19-11ec-91dd-005056a33d5a",
+                            "name": "Vinay JGarge",
+                            "contactId": "ad3d896c-0d19-11ec-91dd-005056a33d5a",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "mayur.rathod@nextiva.com",
+                            "phoneNumber": "14052895999",
+                            "teamUuid": "",
+                            "userUuid": "340e1615-dd90-11ea-95e1-005056a33d5a",
+                            "name": "Mayur Rathod",
+                            "contactId": "340e1615-dd90-11ea-95e1-005056a33d5a",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [
+                        {
+                            "link": "https://nextiva.nextos.com/public/attachment/attachments/62cee066eb962a16279a03a2/gif2.gif",
+                            "contentType": "image/gif",
+                            "filename": "gif2.gif",
+                            "thumbnailLink": "https://nextiva.nextos.com/public/attachment/attachments/thumbnail/62cee066eb962a16279a03a2/gif2.gif",
+                            "uploadedDate": "2022-07-13T15:10:30.13200+0000"
+                        },
+                        {
+                            "link": "https://nextiva.nextos.com/public/attachment/attachments/62cee066eb962a16279a03a1/file_example_PNG_500kB.png",
+                            "contentType": "image/png",
+                            "filename": "file_example_PNG_500kB.png",
+                            "thumbnailLink": "https://nextiva.nextos.com/public/attachment/attachments/thumbnail/62cee066eb962a16279a03a1/file_example_PNG_500kB.png",
+                            "uploadedDate": "2022-07-13T15:10:30.13200+0000"
+                        },
+                        {
+                            "link": "https://nextiva.nextos.com/public/attachment/attachments/62cee066eb962a16279a03a3/gif1.jpg",
+                            "contentType": "image/jpeg",
+                            "filename": "gif1.jpg",
+                            "thumbnailLink": "https://nextiva.nextos.com/public/attachment/attachments/thumbnail/62cee066eb962a16279a03a3/gif1.jpg",
+                            "uploadedDate": "2022-07-13T15:10:30.20600+0000"
+                        },
+                        {
+                            "link": "https://nextiva.nextos.com/public/attachment/attachments/62cee066eb962a16279a03a4/file_example_JPG_500kB.jpg",
+                            "contentType": "image/jpeg",
+                            "filename": "file_example_JPG_500kB.jpg",
+                            "thumbnailLink": "https://nextiva.nextos.com/public/attachment/attachments/thumbnail/62cee066eb962a16279a03a4/file_example_JPG_500kB.jpg",
+                            "uploadedDate": "2022-07-13T15:10:30.22800+0000"
+                        },
+                        {
+                            "link": "https://nextiva.nextos.com/public/attachment/attachments/62cee066eb962a16279a03a5/test3.png",
+                            "contentType": "image/png",
+                            "filename": "test3.png",
+                            "thumbnailLink": "https://nextiva.nextos.com/public/attachment/attachments/thumbnail/62cee066eb962a16279a03a5/test3.png",
+                            "uploadedDate": "2022-07-13T15:10:30.29700+0000"
+                        },
+                        {
+                            "link": "https://nextiva.nextos.com/public/attachment/attachments/62cee066eb962a16279a03a6/test2.jpg",
+                            "contentType": "image/jpeg",
+                            "filename": "test2.jpg",
+                            "thumbnailLink": "https://nextiva.nextos.com/public/attachment/attachments/thumbnail/62cee066eb962a16279a03a6/test2.jpg",
+                            "uploadedDate": "2022-07-13T15:10:30.31900+0000"
+                        }
+                    ],
+                    "messageState": {
+                        "messageId": "1acaa7a9-0705-495b-952d-cdbf1655ded2",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "14052895997140528959981405289599916024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1405289599816024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "8fb8ea86-4ca8-4bdc-95ba-b6893b3c4bfa",
+                    "clientId": "connect-web-d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                    "threadIds": [
+                        "fa725aa9-6f8e-4d56-af65-6fd4509f2d7c"
+                    ],
+                    "subject": "",
+                    "preview": "Test group conversation",
+                    "sent": "2022-07-13T13:35:21.22342+0000",
+                    "sender": {
+                        "email": "anuj.kothari@nextiva.com",
+                        "phoneNumber": "14052895998",
+                        "teamUuid": "",
+                        "userUuid": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                        "name": "Anuj Kothari",
+                        "contactId": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                        "phoneLocation": "WORK",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "8fb8ea86-4ca8-4bdc-95ba-b6893b3c4bfa",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1405289599816024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1216666639916024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "c19629e7-a051-4fd4-8ded-94395196d662",
+                    "clientId": "",
+                    "threadIds": [
+                        "ec291807-bc5d-4529-af05-6b4a7a1f4ed7"
+                    ],
+                    "subject": "",
+                    "preview": "rc#sms#verificationMessage",
+                    "sent": "2022-07-13T06:04:26.85173+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "12166666399",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "c19629e7-a051-4fd4-8ded-94395196d662",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1216666639916024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1216666644116024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "573e0b1e-0759-4c14-9568-f24311a2aba6",
+                    "clientId": "",
+                    "threadIds": [
+                        "81ef483f-f351-443d-93ff-1649dd5699fa"
+                    ],
+                    "subject": "",
+                    "preview": "rc#sms#verificationMessage",
+                    "sent": "2022-07-13T05:58:32.47998+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "12166666441",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "573e0b1e-0759-4c14-9568-f24311a2aba6",
+                        "readStatus": "UNREAD",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1216666644116024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1216666639016024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "e33882a4-12f8-4e1b-9b3d-31ff4f877a61",
+                    "clientId": "",
+                    "threadIds": [
+                        "b6ee5bc7-ebd1-4d6e-98b4-f0bc29cfa7db"
+                    ],
+                    "subject": "",
+                    "preview": "rc#sms#verificationMessage",
+                    "sent": "2022-07-12T12:04:32.27384+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "12166666390",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "e33882a4-12f8-4e1b-9b3d-31ff4f877a61",
+                        "readStatus": "UNREAD",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1216666639016024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1216666642716024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "7e31c557-ce4a-49e0-abf7-8e023f3d08fc",
+                    "clientId": "",
+                    "threadIds": [
+                        "e4b20ceb-f2fa-425f-af4a-49222c4a2375"
+                    ],
+                    "subject": "",
+                    "preview": "rc#sms#verificationMessage",
+                    "sent": "2022-07-08T05:18:44.46477+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "12166666427",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "7e31c557-ce4a-49e0-abf7-8e023f3d08fc",
+                        "readStatus": "UNREAD",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1216666642716024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1216666641316024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "3fce1b9b-b610-4db1-8260-fba741adb7b0",
+                    "clientId": "",
+                    "threadIds": [
+                        "3b84a559-a12a-4aa6-a512-78c20cf6673e"
+                    ],
+                    "subject": "",
+                    "preview": "rc#sms#verificationMessage",
+                    "sent": "2022-07-08T05:09:27.07167+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "12166666413",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "3fce1b9b-b610-4db1-8260-fba741adb7b0",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1216666641316024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1209264329116024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "032208d2-9b2e-42ad-bf3b-eab249da0b51",
+                    "clientId": "",
+                    "threadIds": [
+                        "84747657-25f7-432b-9f96-ba12d8626bab"
+                    ],
+                    "subject": "",
+                    "preview": "rc#sms#verificationMessage",
+                    "sent": "2022-07-07T05:20:49.59810+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "12092643291",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "032208d2-9b2e-42ad-bf3b-eab249da0b51",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1209264329116024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1216666643716024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "86c7cb40-08cc-45d2-b3b2-91c4a774303c",
+                    "clientId": "",
+                    "threadIds": [
+                        "9c6e3153-6171-488f-b4cc-57e5b656f420"
+                    ],
+                    "subject": "",
+                    "preview": "rc#sms#verificationMessage",
+                    "sent": "2022-07-06T08:50:35.02889+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "12166666437",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "86c7cb40-08cc-45d2-b3b2-91c4a774303c",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1216666643716024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1602491173919072054623",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "09c9b159-9dbb-4a54-834f-6a46ee4d79de",
+                    "clientId": "",
+                    "threadIds": [
+                        "4292a73d-f39b-4f7f-a68d-d515bdb35cef"
+                    ],
+                    "subject": "",
+                    "preview": "Hi",
+                    "sent": "2022-07-05T21:24:36.02723+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "19072054623",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "09c9b159-9dbb-4a54-834f-6a46ee4d79de",
+                        "readStatus": "UNREAD",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1602491173919072054623",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1216666624216024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "7fcf38d3-d486-4716-a146-d330504f0f7a",
+                    "clientId": "",
+                    "threadIds": [
+                        "ce755153-9903-406b-b747-c3bcce69c2fd"
+                    ],
+                    "subject": "",
+                    "preview": "rc#sms#verificationMessage",
+                    "sent": "2022-07-05T16:09:08.86367+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "12166666242",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "7fcf38d3-d486-4716-a146-d330504f0f7a",
+                        "readStatus": "UNREAD",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1216666624216024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1216666644316024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "3c7174ab-aab3-450a-98bc-9d299a60a6f5",
+                    "clientId": "",
+                    "threadIds": [
+                        "a53dd561-79eb-40c7-82f0-8b111d76b8cf"
+                    ],
+                    "subject": "",
+                    "preview": "rc#sms#verificationMessage",
+                    "sent": "2022-07-05T16:01:34.62833+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "12166666443",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "3c7174ab-aab3-450a-98bc-9d299a60a6f5",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1216666644316024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "62aa3fe347bdd4e645c3f276",
+            "messages": [
+                {
+                    "channel": "CHAT",
+                    "messageId": "62be197077825b9cb47792d4",
+                    "clientId": "",
+                    "threadIds": [],
+                    "subject": "",
+                    "preview": "prod test 2",
+                    "sent": "2022-06-30T21:45:20.39461+0000",
+                    "sender": {
+                        "email": "jorge.perez@nextiva.com",
+                        "phoneNumber": "",
+                        "teamUuid": "",
+                        "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "name": "Jorge Perez",
+                        "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "phoneLocation": "",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "anuj.kothari@nextiva.com",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                            "name": "Anuj Kothari",
+                            "contactId": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "62be197077825b9cb47792d4",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "OUTBOUND",
+                    "groupId": "62aa3fe347bdd4e645c3f276",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "53139451-ed86-4312-a248-5e9bd899f2b1",
+            "messages": [
+                {
+                    "channel": "VOICE",
+                    "messageId": "1c635d77-1d92-41b6-a5df-32c2b3088508",
+                    "clientId": "",
+                    "threadIds": [
+                        "4e440749-c062-4a84-a279-88ed6f16042b"
+                    ],
+                    "subject": "",
+                    "preview": "",
+                    "sent": "2022-06-30T21:14:26.32842+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "+19072054623",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "1c635d77-1d92-41b6-a5df-32c2b3088508",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "callDetails": {
+                        "date": "1970-01-01",
+                        "call_start_time": "00:00:00",
+                        "call_duration": 0,
+                        "voicemail_id": null,
+                        "voicemail_read": false,
+                        "answered": false,
+                        "voicemail": false,
+                        "voicemail_transcript": null,
+                        "voicemail_transcript_rating": null,
+                        "voicemail_transcript_error": false,
+                        "note": null
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "53139451-ed86-4312-a248-5e9bd899f2b1",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "73a9786f-3796-4ce1-b380-f13f5d732eab",
+            "messages": [
+                {
+                    "channel": "VOICE",
+                    "messageId": "aa4c2dc3-a304-4b66-97c6-d9afe7635c13",
+                    "clientId": "",
+                    "threadIds": [
+                        "28dea6ad-bf52-4380-9607-79942679bcbd"
+                    ],
+                    "subject": "",
+                    "preview": "",
+                    "sent": "2022-06-29T21:40:46.89484+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "+16024911739",
+                        "teamUuid": "",
+                        "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "name": "Jorge Perez",
+                        "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "phoneLocation": "WORK",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "",
+                            "phoneNumber": "9072054623",
+                            "teamUuid": "",
+                            "userUuid": "",
+                            "name": "",
+                            "contactId": "",
+                            "phoneLocation": "",
+                            "contactType": "unsaved",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "aa4c2dc3-a304-4b66-97c6-d9afe7635c13",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "callDetails": {
+                        "date": "2022-06-29",
+                        "call_start_time": "21:40:25",
+                        "call_duration": 20,
+                        "voicemail_id": null,
+                        "voicemail_read": false,
+                        "answered": false,
+                        "voicemail": false,
+                        "voicemail_transcript": null,
+                        "voicemail_transcript_rating": null,
+                        "voicemail_transcript_error": false,
+                        "note": null
+                    },
+                    "direction": "OUTBOUND",
+                    "groupId": "73a9786f-3796-4ce1-b380-f13f5d732eab",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "8e6ea436-c3be-4401-80b4-741232053657",
+            "messages": [
+                {
+                    "channel": "VOICE",
+                    "messageId": "dc0343c8-1bde-45dc-adbe-f4ad84a27941",
+                    "clientId": "",
+                    "threadIds": [
+                        "62461f37-9ac9-4d13-a383-d0c80cf97d3d"
+                    ],
+                    "subject": "",
+                    "preview": "",
+                    "sent": "2022-06-29T21:40:01.53434+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "+16024911739",
+                        "teamUuid": "",
+                        "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "name": "Jorge Perez",
+                        "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "phoneLocation": "WORK",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "",
+                            "phoneNumber": "9072054623",
+                            "teamUuid": "",
+                            "userUuid": "",
+                            "name": "",
+                            "contactId": "",
+                            "phoneLocation": "",
+                            "contactType": "unsaved",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "dc0343c8-1bde-45dc-adbe-f4ad84a27941",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "callDetails": {
+                        "date": "2022-06-29",
+                        "call_start_time": "21:39:37",
+                        "call_duration": 19,
+                        "voicemail_id": null,
+                        "voicemail_read": false,
+                        "answered": false,
+                        "voicemail": false,
+                        "voicemail_transcript": null,
+                        "voicemail_transcript_rating": null,
+                        "voicemail_transcript_error": false,
+                        "note": null
+                    },
+                    "direction": "OUTBOUND",
+                    "groupId": "8e6ea436-c3be-4401-80b4-741232053657",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1602491173916029626450",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "407c2d0d-24c4-4dd2-9fc3-bc8abda77c7d",
+                    "clientId": "connect-web-2b73b344-735f-11e8-94af-005056a31519",
+                    "threadIds": [
+                        "aa1ed05c-a15b-468c-87ec-3983e8abf6f4"
+                    ],
+                    "subject": "",
+                    "preview": "test",
+                    "sent": "2022-06-28T22:00:02.67321+0000",
+                    "sender": {
+                        "email": "josh.fleck@nextiva.com",
+                        "phoneNumber": "16029626450",
+                        "teamUuid": "",
+                        "userUuid": "2b73b344-735f-11e8-94af-005056a31519",
+                        "name": "Josh Fleck",
+                        "contactId": "2b73b344-735f-11e8-94af-005056a31519",
+                        "phoneLocation": "WORK",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "jorge.perez@nextiva.com",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "407c2d0d-24c4-4dd2-9fc3-bc8abda77c7d",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1602491173916029626450",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "627c2d9d818bbe1dac864678",
+            "messages": [
+                {
+                    "channel": "CHAT",
+                    "messageId": "62b48c88272f011230e2d8c1",
+                    "clientId": "",
+                    "threadIds": [],
+                    "subject": "",
+                    "preview": "the call cut out for me . but I have a manual ticket to finish, business hours automation , and will used 10% tomorrow to work on ids",
+                    "sent": "2022-06-23T15:53:44.43200+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "",
+                        "teamUuid": "",
+                        "userUuid": "8109f546-2ba4-11ec-a711-005056a33d5a",
+                        "name": "Scott Patterson",
+                        "contactId": "8109f546-2ba4-11ec-a711-005056a33d5a",
+                        "phoneLocation": "OTHER",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "1900e65a-fe7a-11ea-b616-005056a31519",
+                            "name": "Daniel Shiosaky",
+                            "contactId": "1900e65a-fe7a-11ea-b616-005056a31519",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "0eb0e23f-40ab-11ec-8b6a-005056a3635e",
+                            "name": "Manuel Zapata",
+                            "contactId": "0eb0e23f-40ab-11ec-8b6a-005056a3635e",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "856696b8-cbd3-11ec-8c37-005056a31519",
+                            "name": "R-Jay Dorado",
+                            "contactId": "856696b8-cbd3-11ec-8c37-005056a31519",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "eb4cf970-ac57-11ec-964e-005056a31519",
+                            "name": "Jamol Muminov",
+                            "contactId": "eb4cf970-ac57-11ec-964e-005056a31519",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "ad80c57d-d618-11ec-8c37-005056a31519",
+                            "name": "Navdeep Rathore",
+                            "contactId": "ad80c57d-d618-11ec-8c37-005056a31519",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "d7e0c10b-3c2b-11ec-abe8-005056a31519",
+                            "name": "Omar Mohammed",
+                            "contactId": "d7e0c10b-3c2b-11ec-abe8-005056a31519",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "966231ff-8dc8-11ec-9547-005056a33d5a",
+                            "name": "Tyla Suon",
+                            "contactId": "966231ff-8dc8-11ec-9547-005056a33d5a",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "c7254e60-0128-11ec-8d44-005056a3635e",
+                            "name": "Zhenqin Li",
+                            "contactId": "c7254e60-0128-11ec-8d44-005056a3635e",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "43a049b5-a8fc-11eb-92b3-005056a31519",
+                            "name": "Manish Joshi",
+                            "contactId": "43a049b5-a8fc-11eb-92b3-005056a31519",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "8109f546-2ba4-11ec-a711-005056a33d5a",
+                            "name": "Scott Patterson",
+                            "contactId": "8109f546-2ba4-11ec-a711-005056a33d5a",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "d0c3589a-1b09-11ec-8d44-005056a3635e",
+                            "name": "Peter Roberson",
+                            "contactId": "d0c3589a-1b09-11ec-8d44-005056a3635e",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "304c1388-d85a-11ec-878b-005056a3635e",
+                            "name": "Kaustubh Shelke",
+                            "contactId": "304c1388-d85a-11ec-878b-005056a3635e",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "e2d1ef94-d7ba-11ec-878b-005056a3635e",
+                            "name": "Praphulle Gaikwad",
+                            "contactId": "e2d1ef94-d7ba-11ec-878b-005056a3635e",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "ab05f847-2e9c-11eb-aa80-005056a3635e",
+                            "name": "Sukant Majumdar",
+                            "contactId": "ab05f847-2e9c-11eb-aa80-005056a3635e",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "e6267128-d84a-11ec-8f87-005056a33d5a",
+                            "name": "Akshay Shende",
+                            "contactId": "e6267128-d84a-11ec-8f87-005056a33d5a",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "ecc4b560-56f9-11e8-be32-005056a33d5a",
+                            "name": "Manasa Anne",
+                            "contactId": "ecc4b560-56f9-11e8-be32-005056a33d5a",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        },
+                        {
+                            "email": "",
+                            "phoneNumber": "",
+                            "teamUuid": "",
+                            "userUuid": "4367afcc-31c8-11ec-aced-005056a3635e",
+                            "name": "Nobel Dastan",
+                            "contactId": "4367afcc-31c8-11ec-aced-005056a3635e",
+                            "phoneLocation": "OTHER",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "62b48c88272f011230e2d8c1",
+                        "readStatus": "UNREAD",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "627c2d9d818bbe1dac864678",
+                    "groupName": "QA-Automation",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "5a392182-6b23-4b06-ade1-a888b06935ee",
+            "messages": [
+                {
+                    "channel": "VOICE",
+                    "messageId": "6f054595-7e73-40e0-99a5-6f19e7259eda",
+                    "clientId": "",
+                    "threadIds": [
+                        "967c24d1-5f7b-4876-8170-cc5ef5d68ac7"
+                    ],
+                    "subject": "",
+                    "preview": "",
+                    "sent": "2022-06-22T21:37:23.26800+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "+16024911739",
+                        "teamUuid": "",
+                        "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "name": "Jorge Perez",
+                        "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "phoneLocation": "WORK",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "",
+                            "phoneNumber": "+14052895998",
+                            "teamUuid": "",
+                            "userUuid": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                            "name": "Anuj Kothari",
+                            "contactId": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "6f054595-7e73-40e0-99a5-6f19e7259eda",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "callDetails": {
+                        "date": "1970-01-01",
+                        "call_start_time": "00:00:00",
+                        "call_duration": 0,
+                        "voicemail_id": null,
+                        "voicemail_read": false,
+                        "answered": false,
+                        "voicemail": false,
+                        "voicemail_transcript": null,
+                        "voicemail_transcript_rating": null,
+                        "voicemail_transcript_error": false,
+                        "note": null
+                    },
+                    "direction": "OUTBOUND",
+                    "groupId": "5a392182-6b23-4b06-ade1-a888b06935ee",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "fe650ff8-b6be-4da7-bd3f-1e126174f875",
+            "messages": [
+                {
+                    "channel": "VOICE",
+                    "messageId": "814baebc-603d-4b7a-890e-a25b62393cce",
+                    "clientId": "",
+                    "threadIds": [
+                        "daef121e-85cf-4b09-80eb-2b174d0d092e"
+                    ],
+                    "subject": "",
+                    "preview": "",
+                    "sent": "2022-06-22T15:03:58.85500+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "+16024911739",
+                        "teamUuid": "",
+                        "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "name": "Jorge Perez",
+                        "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "phoneLocation": "WORK",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "",
+                            "phoneNumber": "+14052895998",
+                            "teamUuid": "",
+                            "userUuid": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                            "name": "Anuj Kothari",
+                            "contactId": "d810bd43-dd8f-11ea-95e1-005056a33d5a",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "814baebc-603d-4b7a-890e-a25b62393cce",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "callDetails": {
+                        "date": "1970-01-01",
+                        "call_start_time": "00:00:00",
+                        "call_duration": 0,
+                        "voicemail_id": null,
+                        "voicemail_read": false,
+                        "answered": false,
+                        "voicemail": false,
+                        "voicemail_transcript": null,
+                        "voicemail_transcript_rating": null,
+                        "voicemail_transcript_error": false,
+                        "note": null
+                    },
+                    "direction": "OUTBOUND",
+                    "groupId": "fe650ff8-b6be-4da7-bd3f-1e126174f875",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "8e2bd22f-7b23-4a3f-be22-2142e8dc431e",
+            "messages": [
+                {
+                    "channel": "VOICE",
+                    "messageId": "758964b6-1f78-4251-8e74-1915b802269c",
+                    "clientId": "",
+                    "threadIds": [
+                        "f7660002-68ab-4443-8e29-f4ff75f9fedf"
+                    ],
+                    "subject": "",
+                    "preview": "",
+                    "sent": "2022-06-21T16:02:18.50963+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "+16024911739",
+                        "teamUuid": "",
+                        "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "name": "Jorge Perez",
+                        "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                        "phoneLocation": "WORK",
+                        "contactType": "corporate",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "",
+                            "phoneNumber": "523312250878",
+                            "teamUuid": "",
+                            "userUuid": "",
+                            "name": "",
+                            "contactId": "",
+                            "phoneLocation": "",
+                            "contactType": "unsaved",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "758964b6-1f78-4251-8e74-1915b802269c",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "callDetails": {
+                        "date": "1970-01-01",
+                        "call_start_time": "00:00:00",
+                        "call_duration": 0,
+                        "voicemail_id": null,
+                        "voicemail_read": false,
+                        "answered": false,
+                        "voicemail": false,
+                        "voicemail_transcript": null,
+                        "voicemail_transcript_rating": null,
+                        "voicemail_transcript_error": false,
+                        "note": null
+                    },
+                    "direction": "OUTBOUND",
+                    "groupId": "8e2bd22f-7b23-4a3f-be22-2142e8dc431e",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1216666643816024911739",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "09767e67-d674-44a6-954f-05d8c0aca73f",
+                    "clientId": "",
+                    "threadIds": [
+                        "78187364-460a-4b4d-8dd5-1c6a88ceb967"
+                    ],
+                    "subject": "",
+                    "preview": "rc#sms#verificationMessage",
+                    "sent": "2022-06-16T07:14:59.88800+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "12166666438",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "09767e67-d674-44a6-954f-05d8c0aca73f",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1216666643816024911739",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "16024911739523312250878",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "45836262-ff84-46c5-8963-13bbaab74ea5",
+                    "clientId": "",
+                    "threadIds": [
+                        "7266a72b-b09f-42c5-adf0-971652a6e3f6"
+                    ],
+                    "subject": "",
+                    "preview": "Hi jorge",
+                    "sent": "2022-06-15T20:24:48.55693+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "523312250878",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "",
+                        "contactId": "",
+                        "phoneLocation": "",
+                        "contactType": "unsaved",
+                        "jobTitle": ""
+                    },
+                    "recipients": [
+                        {
+                            "email": "",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "45836262-ff84-46c5-8963-13bbaab74ea5",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "16024911739523312250878",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        },
+        {
+            "groupValue": "1602491173916028381028",
+            "messages": [
+                {
+                    "channel": "SMS",
+                    "messageId": "1f9ba80f-d6d1-41ce-a1cb-d9e5048bc3d5",
+                    "clientId": "",
+                    "threadIds": [
+                        "43230b37-8b4d-4169-84de-726ab1f82126"
+                    ],
+                    "subject": "",
+                    "preview": "Hello and welcome! 🎉 \n\nI’m xBert from Nextiva and here to help you connect better with your cust...",
+                    "sent": "2022-06-07T17:13:00.85136+0000",
+                    "sender": {
+                        "email": "",
+                        "phoneNumber": "16028381028",
+                        "teamUuid": "",
+                        "userUuid": "",
+                        "name": "xBert",
+                        "contactId": "01g0q1s3h60ddgc3wp23ehm9kc",
+                        "phoneLocation": "WORK",
+                        "contactType": "business",
+                        "jobTitle": "Genius"
+                    },
+                    "recipients": [
+                        {
+                            "email": "",
+                            "phoneNumber": "16024911739",
+                            "teamUuid": "",
+                            "userUuid": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "name": "Jorge Perez",
+                            "contactId": "54d085a3-9a59-11ec-964e-005056a31519",
+                            "phoneLocation": "WORK",
+                            "contactType": "corporate",
+                            "jobTitle": ""
+                        }
+                    ],
+                    "attachments": [],
+                    "messageState": {
+                        "messageId": "1f9ba80f-d6d1-41ce-a1cb-d9e5048bc3d5",
+                        "readStatus": "READ",
+                        "deleted": false
+                    },
+                    "direction": "INBOUND",
+                    "groupId": "1602491173916028381028",
+                    "groupName": "",
+                    "folders": [],
+                    "topicIds": [],
+                    "sentimentScore": 0.0,
+                    "userAccountId": ""
+                }
+            ],
+            "unreadMessageCount": 0
+        }
+    ],
+    "totalCount": 28,
+    "first": "https://nextiva.nextos.com/rest-api/conversation/v2/messages?pageSize=50&groupBy=groupId&collapseGroups=true&fullDetails=false&xIdentity=&folderId=&ownerId=&excludeFromTotalCount=TEAMCHAT&filter=&pageNumber=1",
+    "prev": null,
+    "next": null,
+    "last": "https://nextiva.nextos.com/rest-api/conversation/v2/messages?pageSize=50&groupBy=groupId&collapseGroups=true&fullDetails=false&xIdentity=&folderId=&ownerId=&excludeFromTotalCount=TEAMCHAT&filter=&pageNumber=1",
+    "messageCountDto": {
+        "data": [
+            {
+                "userId": "54d085a3-9a59-11ec-964e-005056a31519",
+                "totalCount": 17,
+                "channels": [
+                    {
+                        "channel": "TEAMCHAT",
+                        "count": 10,
+                        "buckets": [
+                            {
+                                "referenceId": "627c2d9d818bbe1dac864678",
+                                "count": 10
+                            }
+                        ]
+                    },
+                    {
+                        "channel": "SMS",
+                        "count": 7,
+                        "buckets": [
+                            {
+                                "referenceId": "16024911739",
+                                "count": 7
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
